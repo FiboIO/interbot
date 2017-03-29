@@ -1,0 +1,33 @@
+{
+  "name": "interbot",
+  "description": "Interbot.store | Bot marketplace",
+  "version": "0.1.1",
+  "author": {
+    "name": "Fibo.io Smartbots Ltd.",
+    "email": "tiago@fibo.io",
+    "url": "http://interbot.store"
+  },
+  "main": "index.js",
+  "keywords": [
+    "interbot",
+    "bot monetization"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiboio/interbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fiboio/interbot/issues"
+  },
+  "homepage": "https://github.com/fiboio/interbot#readme",
+  "maintainers": [
+    {
+      "name": "Fibo.io Smartbots Ltd.",
+      "email": "tiago@fibo.io"
+    }
+  ],
+  "readme": "ERROR: No README data found!",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
